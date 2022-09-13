@@ -1,0 +1,154 @@
+
+h1{
+margin: 50px auto 20px auto;
+color: #F69E7B;
+font-family: 'Sacramento', cursive;
+font-size: 4rem; /*16px = 100% = 1em */
+line-height: 2;
+}
+h2,h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #F69E7B;
+  font-weight: normal;
+}
+
+
+hr{
+  color: #F69E7B;
+  border-style: dotted none none;
+  width:5%;
+  border-width:5px;
+  margin: 50px auto 50px auto;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+span{
+  text-decoration: underline;
+}
+p{
+color: #383E56;
+line-height: 2;
+}
+a{
+  text-decoration: none;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.sendme{
+  width:40%;
+  margin: 50px auto 50px auto;
+}
+
+.contact-me{
+margin-bottom:100px;
+height:250px;
+}
+
+.skill-row{
+
+width:50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+.profileImage{
+margin-top: 30px;
+border-radius: 150%;
+}
+
+.fed{
+  color: #EEDAD1;
+  font-size: 1rem;
+}
+.topContainer{
+  position: relative;
+  padding-top: 100px;
+  background-color: #383E56;
+}
+.middleContainer{
+}
+
+
+.topCloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+.bottomCloud{
+  position: absolute;
+  left:280px;
+  bottom: 300px;
+
+}
+.btn {
+  background: #f5bfa9;
+  background-image: -webkit-linear-gradient(top, #f5bfa9, #e8845d);
+  background-image: -moz-linear-gradient(top, #f5bfa9, #e8845d);
+  background-image: -ms-linear-gradient(top, #f5bfa9, #e8845d);
+  background-image: -o-linear-gradient(top, #f5bfa9, #e8845d);
+  background-image: linear-gradient(to bottom, #f5bfa9, #e8845d);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f79b74;
+  background-image: -webkit-linear-gradient(top, #f79b74, #f27b48);
+  background-image: -moz-linear-gradient(top, #f79b74, #f27b48);
+  background-image: -ms-linear-gradient(top, #f79b74, #f27b48);
+  background-image: -o-linear-gradient(top, #f79b74, #f27b48);
+  background-image: linear-gradient(to bottom, #f79b74, #f27b48);
+  text-decoration: none;
+  color:white;
+}
+
+.mac{
+  width:25%;
+  margin-right: 30px;
+  float: left;
+}
+.ccloud{
+width:25%;
+margin-left: 30px;
+float:right;
+}
+
+.bottom-container{
+  background-color: #383E56;
+  padding: 15px;
+}
+.ACC{
+  text-align: right;
+}
+.PIA{
+  text-align: right;
+}
+
+.footer-link{
+  margin: 15px 40px 5px 40px;
+  color: #F69E7B;
+  display: inline-block;
+}
+.footer-link:hover{
+  margin: 15px 40px 5px 40px;
+  color: #EEDAD1;
+  display: inline-block;
+}
+
+.footerinfo{
+  margin: 40px auto 0 auto;
+color:#EEDAD1;
+font-size: 8pt;
+
+}
